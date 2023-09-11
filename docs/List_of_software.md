@@ -4,6 +4,9 @@ title: List of software
 nav_order: 5
 has_children: true
 ---
+-   [Doorman](Doorman)
+-   [Doorman Admin](Doorman_Admin)
+-   [Poindexter](Poindexter)
 -   [Modules](Modules)
 -   [GIFT](GIFT)
 -   [Globus](File_transfer_with_Globus)
